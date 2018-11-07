@@ -25,7 +25,7 @@ import com.webmvc.repo.PersonRepository;
  * feature_branch2
  * feature_branch3
  * feature_branch3_2_master1_master2
- * feature_branch_feat5
+ * feature_branch_feat5_feat5_2
  */
 @Controller
 public class WebController {
