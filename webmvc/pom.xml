@@ -10,7 +10,7 @@
 
 	<name>webmvc</name>
 	<description>Demo project for Spring Boot</description>
-	<!-- master -->
+	<!-- master --><!-- m2 -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
