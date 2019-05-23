@@ -12,6 +12,7 @@
 	<description>Demo project for Spring Boot</description>
 	<!-- master -->
 	<!-- feat 1 -->
+    <!-- feat 2 -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
