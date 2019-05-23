@@ -13,6 +13,7 @@
 	<!-- master --><!-- m2 --><!-- m3 -->
 
 	<!-- feat 1 -->
+    <!-- feat 2 -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
